@@ -53,6 +53,7 @@ This is a simple console-based application written in C++ that simulates a basic
 ## Author
 
 Ahmad Zaky Ash Shidqi — Informatics Engineering
+
 Institut Teknologi Sepuluh Nopember (ITS)
 
 ---
